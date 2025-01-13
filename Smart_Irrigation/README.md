@@ -14,4 +14,6 @@
 - Breadboard<br>
 
 ## Note:
-If any issues occur or if you have queries about the project, feel free to contact me at: **therealprofessor0001@gmail.com**.
+If any issues occur or if you have queries about the project, feel free to contact me at: **therealprofessor0001@gmail.com**.<br>
+<br>
+Regards,
